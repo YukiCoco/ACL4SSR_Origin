@@ -562,7 +562,7 @@ cfw-bypass:
   - "*.sonyentertainmentnetwork.com"
   # SteamCN
   - "*.cm.steampowered.com"
-  - "*.steamcontent.com"
+  #- "*.steamcontent.com"
   - "*.steamusercontent.com"
   - "*.steamchina.com"
   - "csgo.wmsj.cn"
