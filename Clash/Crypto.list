@@ -37,6 +37,9 @@ DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,boba.network
 
+  # bybit
+DOMAIN-KEYWORD,bybit
+
   # Binance
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,binance.cloud
@@ -143,17 +146,17 @@ DOMAIN-SUFFIX,etherscan.com
 DOMAIN-SUFFIX,parity.io
 DOMAIN-SUFFIX,ethernodes.org
 
-  # localbitcoins
+# localbitcoins
 DOMAIN-SUFFIX,localbitcoins.com
 DOMAIN-SUFFIX,localbitcoinschain.com
 
-  # zb
+# zb
 DOMAIN-SUFFIX,zb.app
 DOMAIN-SUFFIX,zb.com
 DOMAIN-SUFFIX,zb.io
 DOMAIN-SUFFIX,zb.live
 
-  # Analysis
+# Analysis
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,coingecko.com
