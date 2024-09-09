@@ -36,6 +36,8 @@ DOMAIN-SUFFIX,poly.network
 DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,boba.network
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,bitget.fit
 
   # bybit
 DOMAIN-KEYWORD,bybit
